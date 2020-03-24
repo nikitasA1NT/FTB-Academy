@@ -1,53 +1,53 @@
-#Making Tools
-First, you'll want to craft these blocks.
+#Изготовление инструментов
+Во-первых, вы захотите создать эти блоки.
 
-![Crafting Station](item:tconstruct:tooltables 1 0)
-The Crafting Station works like a regular Crafting Table, but items will stay inside if you leave it before emptying it. You can also see inventories touching it as well as all other Tinkers' Construct blocks as tabs at the top.
+![Крафт Станция](item:tconstruct:tooltables 1 0)
+Станция крафтинга работает как обычный стол крафта, но предметы останутся внутри, если вы оставите их до опустошения. Вы также можете увидеть инвентарь, касающийся этого, так же как и все другие блоки Tinkers' Construct в виде вкладок вверху.
 ![](craftingstation.png)
 
-![Stencil Table](item:tconstruct:tooltables 1 1)
-The Stencil Table turns Blank Patterns into tool part Patterns, which are needed to make tools. Place Blank Patterns into the left slot and click the Pattern you want on the left to make it.
+![Трафаретный стол](item:tconstruct:tooltables 1 1)
+Стол трафаретов превращает пустые трафареты в части инструментов, необходимые для создания инструментов. Поместите пустые трафареты в левый слот и нажмите на нужный узор слева, чтобы сделать его.
 ![](stencils.png)
 
-![Pattern Chest](item:tconstruct:tooltables 1 4)
-You can store these Patterns in a Pattern Chest.
+![Сундук трафаретов](item:tconstruct:tooltables 1 4)
+Вы можете хранить эти трафареты в сундуке трафаретов.
 ![](patternchest.png)
 
-![Part Builder](item:tconstruct:tooltables 1 2)
-The Part Builder is where you combine a Pattern and a material to create a tool part.
+![Компоновщик деталей](item:tconstruct:tooltables 1 2)
+Компоновщик деталей - это место, где вы комбинируете трафарет и материал для создания инструментальной детали.
 ![](partbuilder.png)
-Click the buttons on the left to choose the Pattern, and then put a material in one of the slots next to it. The text box to the right will update to show the statistics for that material for each part. You can hover over the statistics to see more information.
+Нажмите кнопки слева, чтобы выбрать трафарет, а затем поместите материал в один из слотов рядом с ним. Текстовое поле справа обновится, чтобы показать статистику для этого материала для каждой части. Вы можете навести курсор на статистику, чтобы увидеть больше информации.
 ![](buildingpart.png)
-You can only make parts out of non-metals in the Part Builder. Metals need the Smeltery, which will be covered later.
+Вы можете изготавливать детали только из неметаллов в конструкторе деталей. Металлы нужны для плавильни, о чем будет рассказано позже.
 ![](metalpart.png)
-If the Part Builder is touching a Pattern Chest, you can take Patterns from it without having to open it.
+Если Компоновщик деталей касается Сундука трафаретов, вы можете взять из него трафареты, не открывая его.
 
-![Tool Station](item:tconstruct:tooltables 1 3)
-The Tool Station is where you combine parts to create a tool.
+![Станция инструментов](item:tconstruct:tooltables 1 3)
+Станция инструментов - это место, где вы комбинируете детали для создания инструмента.
 ![](toolstation.png)
-Click the tool you want to craft on the left, and then place the tool parts in their respective slots.
-The right side will tell you its stats and traits according to the parts used to make it.
+Нажмите на инструмент, который вы хотите создать слева, и поместите части инструмента в соответствующие слоты.
+Правая сторона расскажет вам свои характеристики и характеристики в соответствии с частями, использованными для его изготовления.
 
-The pickaxe in the image below (made of a Stone Pickaxe Head, Paper Binding, and a Sponge Tool Rod) can mine Iron Ore and anything "softer," like Coal Ore and Stone, but not anything like Diamond or Redstone.
-You can give it a name by typing in the text box at the top.
+Кирка на изображении ниже (сделанная из каменного оголовья кирки, бумажного переплета и губчатого инструментального стержня) может добывать железную руду и все, что «мягче», например, каменную руду и камень, но не что-то вроде алмаза или красного камня.
+Вы можете дать ему имя, набрав в текстовом поле вверху.
 ![](buildingtool.png)
-You can also add modifiers in the Tool Station by placing the finished tool in the middle slot in the first page and putting modifier items in the surrounding slots. 
-See Materials and You for information on what modifiers are available for your tool.
-Tools can only have a limited amount of modifiers. The amount remaining can be seen on the right side of the Tool Station when a tool is inside it.
+Вы также можете добавить модификаторы в Станции инструментов, поместив готовый инструмент в средний слот на первой странице и поместив элементы модификатора в окружающие слоты.
+Смотри Материалы и Вы для получения информации о том, какие модификаторы доступны для вашего инструмента.
+Инструменты имеют ограниченное количество модификаторов. Оставшееся количество можно увидеть с правой стороны Станции инструментов, когда инструмент находится внутри нее.
 ![](modifiers.png)
 
-![Tool Forge](item:tconstruct:toolforge)
-The Tool Station can only make a limited group of tools. To make more, you need to make and use the Tool Forge, which works identically to the Tool Station, just with more tools available to craft. You can make a Tool Forge out of pretty much any metal block, but the difference is only aesthetic.
+![Кузница инструментов](item:tconstruct:toolforge)
+Станция инструментов может создавать только ограниченную группу инструментов. Чтобы сделать больше, вам нужно создать и использовать Кузницу инструментов, которая работает точно так же, как и Станция инструментов, просто с большим количеством инструментов, доступных для создания. Вы можете сделать Кузницу инструментов практически из любого металлического блока, но разница только в эстетике.
 ![](toolforge.png)
 
-Hovering over a tool in your inventory will show you the modifiers and statistics, as well as the tool level. When the mod Tinkers' Tool Leveling is installed (which it is in this modpack), using a tool will give it experience. Leveling up a tool will give it an extra modifier!
+Если навести курсор на инструмент в инвентаре, вы увидите модификаторы и статистику, а также уровень инструмента. Когда мод Tinkers' Tool Leveling установлен (который есть в этом модпаке), использование инструмента даст ему опыт. Повышение уровня инструмента даст ему дополнительный модификатор!
 ![](toolxp.png)
 
-You can swap out tool parts by combining the fully repaired tool with the tool part you want to install on it. This will get rid of the tool part you're replacing, along with any trait it provided.
+Вы можете менять детали инструмента, комбинируя полностью отремонтированный инструмент с той частью инструмента, которую хотите установить на него. Это избавит от части инструмента, которую вы заменяете, а также от любой предоставленной черты.
 ![](partswap.png)
 
-If you want to upgrade the mining level of a tool without changing its stats or traits, you can use a Sharpening Kit. This will only change the tool's mining level, leaving everything else alone. This does not use a modifier and can be done multiple times. You can also craft them with your tool to repair it, if they're both made of the same material.
+Если вы хотите повысить уровень майнинга инструмента, не меняя его характеристики или характеристики, вы можете использовать Набор для заточки. Это только изменит уровень майнинга инструмента, оставив все остальное в покое. Это не использует модификатор и может быть сделано несколько раз. Вы также можете изготовить их с помощью инструмента, чтобы починить его, если они оба сделаны из одного и того же материала.
 ![](sharpeningkit.png)
 
-Embossing allows you to add the trait of a tool part to a tool without replacing tool part. So if you really like the trait a tool part but don't like the stats, you can emboss that tool part onto the tool instead of replacing the part onto it!
+Тиснение позволяет добавить черту инструментальной части к инструменту без замены инструментальной части. Так что, если вам действительно нравится внешний вид черты инструментальной части, но не нравится статистика, вы можете нанести эту инструментальную черту на инструмент, вместо того, чтобы заменять эту деталь на него!
 ![](embossment.png)

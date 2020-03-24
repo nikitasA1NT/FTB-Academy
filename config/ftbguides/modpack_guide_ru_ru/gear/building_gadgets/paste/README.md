@@ -1,7 +1,7 @@
-#Construction Paste
-Construction Paste can take the appearance of any block, but it won't mimic any special features about it. Gadgets will use Construction Paste from your inventory if it does not have enough of the actual block.
+#Строительная паста
+Строительная паста может выглядеть как любой блок, но она не будет имитировать какие-либо особенности. Гаджеты будут использовать Строительную пасту из вашего инвентаря, если у нее недостаточно фактического блока.
 
-To get Construction Paste, place Construction Powder next to water and then break the resulting block. You can store it in a Paste Container by right clicking it while you have Paste in your inventory.
+Чтобы получить Строительную пасту, поместите Строительный порошок рядом с водой, а затем разбейте получившийся блок. Вы можете сохранить его в контейнере для вставки, щелкнув его правой кнопкой мыши, пока у вас есть паста в вашем инвентаре.
 
 ![](step1.png)
 ![](step2.png)

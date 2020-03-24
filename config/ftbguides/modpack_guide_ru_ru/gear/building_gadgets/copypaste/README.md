@@ -1,12 +1,12 @@
-#Copy-Paste Gadget
-![Copy-Paste Gadget](item:buildinggadgets:copypastetool)
-The Copy-Paste Gadget will allow you to copy an area and place it somewhere else, without destroying the original. You can also place structures other people have made online!
+#Копировать-Вставить Гаджет
+![Копировать-Вставить Гаджет](item:buildinggadgets:copypastetool)
+Гаджет «Копировать-Вставить» позволит вам скопировать область и разместить ее в другом месте, не разрушая оригинал. Вы также можете размещать конструкции, созданные другими людьми в Интернете!
 
-Right click on one corner of the area you want to copy. This block is where it will be placed from later on. Sneak right click on the other corner to copy the rectangular area between them.
+Щелкните правой кнопкой мыши по одному углу области, которую вы хотите скопировать. В этом блоке он будет размещен позже. Нажмите правой кнопкой мыши на другой угол, чтобы скопировать прямоугольную область между ними.
 ![](copy.png)
 
-Hold G then change to Paste mode, and you will see a hologram of the blocks you copied. You can anchor it somewhere and then hold sneak and right click to adjust the structure's location manually, if it's off at all.
+Удерживая G, перейдите в режим вставки, и вы увидите голограмму скопированных блоков. Вы можете закрепить его где-нибудь, а затем удерживать скрытую кнопку и щелкнуть правой кнопкой мыши, чтобы вручную отрегулировать расположение структуры, если она вообще отключена.
 ![](paste.png)
 
-You can save structures to Templates.
-If you don't want to have to get all the blocks for your structure, you can use Construction Paste instead!
+Вы можете сохранить структуры в шаблонах.
+Если вы не хотите получать все блоки для своей структуры, вместо этого вы можете использовать Строительную пасту!

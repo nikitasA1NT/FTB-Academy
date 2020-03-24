@@ -1,29 +1,29 @@
-Tinkers' Construct also adds a bunch of other fun things that aren't related to tools or weapons. 
+Tinkers' Construct также добавляет кучу других забавных вещей, которые не связаны с инструментами или оружием.
 
-![Slime Boots](item:tconstruct:slime_boots)
-Slime Boots will make you bounce after landing from a fall, negating all fall damage. You can sneak to make it not work.
-![Slimesling](item:tconstruct:slimesling)
-Holding right click on the Slimesling and aiming at a block then releasing will send you flying in the opposite direction. Highly recommended to wear Slime Boots before using.
-![Stone Torch](item:tconstruct:stone_torch)
-![Stone Ladder](item:tconstruct:stone_ladder)
-The Stone Torch and Ladder works like a regular Torch and Ladder, but can be made using only things you can find while mining!
-![Glowball](item:tconstruct:throwball 1 0)
-The Glowball is a thrown projectile that places a light source where it lands.
+![Слизневые сапоги](item:tconstruct:slime_boots)
+Слизневые сапоги заставит вас подпрыгнуть после приземления от падения, сводя на нет весь урон от падения. Вы можете красться, чтобы это не работало.
+![Слизневая рогатка](item:tconstruct:slimesling)
+Удерживая правую кнопку мыши на Слизневой рогатке и нацелившись на блок, затем отпустите, и вы полетите в противоположном направлении. Настоятельно рекомендуется носить Слизневые сапоги перед использованием.
+![Каменный факел](item:tconstruct:stone_torch)
+![Каменная лестница](item:tconstruct:stone_ladder)
+Каменный Факел и Лестница работают как обычный Факел и Лестница, но могут быть сделаны с использованием только тех вещей, которые вы можете найти во время майнинга!
+![Светящийся снежок](item:tconstruct:throwball 1 0)
+Светящийся снежок - это брошенный снаряд, который помещает источник света туда, куда он приземляется.
 ![EFLN](item:tconstruct:throwball 1 1)
-The EFLN is a thrown projectile that explodes where it lands, breaking blocks but not items. Be very cautious of where you use these, they are very destructive.
+EFLN - это метательный снаряд, который взрывается там, где он приземляется, разбивая блоки, но не предметы. Будьте очень осторожны с тем, где вы их используете, они очень разрушительны.
 ![](punji.png)
-Punji Sticks are a placed block that will quickly damage mobs that touch them, as well as applying Slowness II.
+Палочки панджи - это размещенный блок, который быстро повреждает мобов, которые их касаются, а также применяет Медлительность II.
 ![](fancyitemframes.png)
-There are a bunch of new Item Frames that work exactly the same as regular ones, but just look nice.
+Есть множество новых рамок для предметов, которые работают точно так же, как и обычные, но выглядят красиво.
 ![](piggybackpack.png)
-Right click the Piggybackpack on a mob to equip it, placing the mob on your head. Unequip the Piggybackpack to put down the mob.
+Щелкните правой кнопкой мыши Свинорюкзаком на моба, чтобы экипировать его, поместив его на голову. Освободите Свинорюкзак, чтобы положить моба.
 ![](dryingrack.png)
-The Drying Rack dries certain items, turning them into other items. This is mostly used to turn raw foods into jerky. You can also dry certain cooked foods into Leather.
+Сушилка сушит определенные предметы, превращая их в другие предметы. Это в основном используется для превращения сырых продуктов в вяленое мясо. Вы также можете сушить некоторые готовые продукты в коже.
 ![](slimechannels.png)
-Slime Channels work like conveyor belts; they push entities like items and mobs in the direction they flow. This includes up, down, and along walls!
-Slime Channels don't block mobs from spawning, so you can use them in mob grinders to push them the moment they spawn.
+Каналы слизи работают как конвейерные ленты; они толкают сущностей, таких как предметы и мобы, в направлении их движения. Это включает в себя вверх, вниз и вдоль стен!
+Каналы слизи не блокируют мобов от спавна, так что вы можете использовать их в мельницах, чтобы толкать их в тот момент, когда они спавнятся.
 ![](clearglass.png)
-Clear Glass is exactly what the name implies, it's Glass with a clearer texture. Clear Glass blocks that are touching each other will lose the border connecting them, so you can have big panes of glass without criss crossing white lines!
+«Прозрачное стекло» - это именно то, что следует из названия, это стекло с более четкой текстурой. Прозрачные стеклянные блоки, которые соприкасаются друг с другом, потеряют границу, соединяющую их, поэтому вы можете иметь большие стеклянные панели без перекрещивающихся белых линий!
 ![](decoration.png)
 
-There's a ton more decorative blocks in Tinkers' Construct! Search JEI for "@Tinkers'Construct" to see the full list of everything added by the mod.
+В Tinkers' Construct больше тонны декоративных блоков! Вбейте в поиск JEI "@Tinkers'Construct", чтобы увидеть полный список всего, что добавлено модом.

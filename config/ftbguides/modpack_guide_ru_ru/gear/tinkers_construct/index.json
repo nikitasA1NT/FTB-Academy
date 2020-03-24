@@ -1,22 +1,22 @@
 [
 	{
 		"id": "making_tools",
-		"title": "Making Tools",
+		"title": "Изготовление инструментов",
 		"icon": "item:tconstruct:tooltables"
 	},
 	{
 		"id": "tools",
-		"title": "Tool List",
+		"title": "Список инструментов",
 		"icon": "item:tconstruct:pickaxe 1 0 {TinkerData: {Materials: [\"wood\", \"iron\", \"cobalt\"]}}"
 	},
 	{
 		"id": "smeltery",
-		"title": "The Smeltery",
+		"title": "Плавильня",
 		"icon": "item:tconstruct:smeltery_controller"
 	},
 	{
 		"id": "misc",
-		"title": "Other Fun Things",
+		"title": "Другие забавные вещи",
 		"icon": "item:tconstruct:slimesling"
 	}
 ]

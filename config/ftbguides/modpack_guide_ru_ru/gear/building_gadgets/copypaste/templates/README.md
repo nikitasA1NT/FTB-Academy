@@ -1,17 +1,17 @@
-#Templates
-Templates allow you to save copied structures into items, so you can save them to paste them more later.
+#Шаблоны
+Шаблоны позволяют сохранять скопированные структуры в элементы, поэтому вы можете сохранить их, чтобы вставить их позже.
 
-![Template Manager](item:buildinggadgets:templatemanager)
-The Template Manager is where you manage Templates, as the name implies.
+![Диспетчер шаблонов](item:buildinggadgets:templatemanager)
+Диспетчер шаблонов - это то, где вы управляете шаблонами, как следует из названия.
 ![](managergui.png)
 
-Place the Gadget in the left slot and Paper or a Template in the right slot.
-Click Save to write the structure data in the Gadget to the Paper, creating a Template. You an also overwrite Templates instead of using Paper.
-Click Load to write the structure data in the Template to the Gadget, allowing you to paste it into the world.
+Поместите гаджет в левый слот, а бумагу или шаблон - в правый.
+Нажмите «Сохранить», чтобы записать данные структуры в гаджете на бумагу, создав шаблон. Вы также перезаписываете шаблоны вместо использования бумаги.
+Нажмите «Загрузить», чтобы записать данные структуры в шаблоне в гаджет, что позволит вам вставить их в мир.
 
-Click Copy to copy the structure data in the Gadget to your computer's clipboard. You can post this online or send it to someone out of the game and they can load it.
-Click Paste to paste the structure data from your computer's clipboard to the Paper or Template in the right slot, so you can load it into the Gadget.
+Нажмите «Копировать», чтобы скопировать данные структуры в гаджете в буфер обмена вашего компьютера. Вы можете опубликовать это онлайн или отправить кому-то из игры, и они смогут загрузить его.
+Нажмите «Вставить», чтобы вставить данные структуры из буфера обмена вашего компьютера в «Бумагу» или «Шаблон» в правом слоте, чтобы вы могли загрузить их в гаджет.
 
-[You can also find user-made structures online here!](https://www.reddit.com/r/9x9/)
-Explore that page and find a structure you like and open the post it's in. The post should have a link pastebin.com, and at the bottom should be a text box that says "RAW Paste Data." Select everything in the box and copy it.
+[Вы также можете найти пользовательские структуры онлайн здесь!](https://www.reddit.com/r/9x9/)
+Исследуйте эту страницу, найдите понравившуюся вам структуру и откройте сообщение, в котором она находится. Сообщение должно иметь ссылку pastebin.com, а внизу должно быть текстовое поле с надписью «RAW Paste Data». Выберите все в поле и скопируйте его.
 ![](pastebin.png)

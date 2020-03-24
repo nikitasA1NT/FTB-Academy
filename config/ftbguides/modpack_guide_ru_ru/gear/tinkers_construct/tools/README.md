@@ -1,86 +1,86 @@
-# Tool List
+# Список инструментов
 
-## Pickaxe
-![Pickaxe](item:tconstruct:pickaxe 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
-Pickaxes function as you'd expect. They mine hard blocks like Stone.
+## Кирка
+![Кирка](item:tconstruct:pickaxe 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
+Кирки функционируют так, как вы ожидаете. Они добывают твердые блоки, как камень.
 
-## Shovel
-![Shovel](item:tconstruct:shovel 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
-Shovels also function as you'd expect. They dig soft blocks like Dirt.
+## Лопата
+![Лопата](item:tconstruct:shovel 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
+Лопаты также функционируют, как и следовало ожидать. Они копают мягкие блоки, как грязь.
 
-## Hatchet
-![Hatchet](item:tconstruct:hatchet 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
-Hatchets chop Wood and cut through Leaves. They also are effictive weapons against Shields.
+## Топор
+![Топор](item:tconstruct:hatchet 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
+Топоры рубят дрова и прорезают листья. Они также являются эффективным оружием против щитов.
 
-## Mattock
-![Mattock](item:tconstruct:mattock 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
-Mattocks act like hoes, but can also dig through Wood and Dirt.
+## Мотыга
+![Мотыга](item:tconstruct:mattock 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
+Мотыги действуют как мотыги, но также могут копаться в древесине и грязи.
 
-## Kama
-![Kama](item:tconstruct:kama 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
-Kamas can be right clicked to harvest and replant all crops in an area, as well as shearing sheep.
+## Кама
+![Кама](item:tconstruct:kama 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
+Камами можно щелкнуть правой кнопкой мыши, чтобы собрать урожай и пересадить все культуры на участке, а также стрижку овец.
 
-## Scythe
-![Scythe](item:tconstruct:scythe 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt", "manyullyn"]}})
-Scythes break plant blocks in an area, and right clicking will harvest and replant crops. It also has a wider range for attacking multiple mobs at once.
+## Коса
+![Коса](item:tconstruct:scythe 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt", "manyullyn"]}})
+Косы разбивают блоки растений в области, и щелчок правой кнопкой мыши собирает и пересаживает зерновые культуры. Он также имеет более широкий диапазон для атаки нескольких мобов одновременно.
 
-## Hammer
-![Hammer](item:tconstruct:hammer 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt", "manyullyn"]}})
-Hammers mine hard blocks in a 3x3 area without modifiers. It is also an effective weapon against undead monsters.
+## Молот
+![Молот](item:tconstruct:hammer 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt", "manyullyn"]}})
+Молоты добывают твердые блоки в области 3х3 без модификаторов. Это также эффективное оружие против нежити.
 
-## Excavator
-![Excavator](item:tconstruct:excavator 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt", "manyullyn"]}})
-The Excavator digs soft blocks in a 3x3 area without modifiers.
+## Землекоп
+![Землекоп](item:tconstruct:excavator 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt", "manyullyn"]}})
+Землекоп копает мягкие блоки в области 3х3 без модификаторов.
 
-## Lumberaxe
-![Lumberaxe](item:tconstruct:lumberaxe 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt", "manyullyn"]}})
-The Lumberaxe chops down an entire tree at once.
+## Колун
+![Колун](item:tconstruct:lumberaxe 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt", "manyullyn"]}})
+Колун срубает все дерево сразу.
 
-## Broadsword
-![Broadsword](item:tconstruct:broadsword 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
-Broadswords are a basic weapon, not specializing in anything.
+## Палаш
+![Палаш](item:tconstruct:broadsword 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
+Палаши - основное оружие, ни на чем не специализирующееся.
 
-## Longsword
-![Longsword](item:tconstruct:longsword 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
-Longswords do more damage but swing slower. You can also hold and release right click to leap forward.
+## Длинный меч
+![Длинный меч](item:tconstruct:longsword 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
+Длинные мечи наносят больше урона, но размахиваются медленнее. Вы также можете удерживать и отпускать правой кнопкой мыши, чтобы прыгнуть вперед.
 
-## Rapier
-![Rapier](item:tconstruct:rapier 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
-Rapiers do less damage but swing much faster, and ignores armor. Right clicking will make you hop back.
+## Рапира
+![Рапира](item:tconstruct:rapier 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
+Рапиры наносят меньше урона, но размахиваются гораздо быстрее и игнорируют броню. Щелчок правой кнопкой заставит вас вернуться назад.
 
-## Battlesign
-![Battlesign](item:tconstruct:battlesign 1 0 {TinkerData: {Materials: ["wood", "iron"]}})
-Battlesigns do less damage but can be used as a shield that reflects projectiles. Cactus as a material is extremely effective.
+## Бовое знамя
+![Боевое знамя](item:tconstruct:battlesign 1 0 {TinkerData: {Materials: ["wood", "iron"]}})
+Боевые знамена наносят меньше урона, но могут использоваться в качестве щита, отражающего снаряды. Кактус как материал чрезвычайно эффективен.
 
-## Frypan
-![Frypan](item:tconstruct:frypan 1 0 {TinkerData: {Materials: ["wood", "iron"]}})
-The Frying Pan has increased knockback. You hold right click to charge up a powerful attack that does extra damage and knockback, as well as cooking any drops.
+## Сковорода
+![Сковорода](item:tconstruct:frypan 1 0 {TinkerData: {Materials: ["wood", "iron"]}})
+Сковорода имеет увеличенное отбрасывание. Вы держите правый клик, чтобы зарядить мощную атаку, которая наносит дополнительный урон и отбрасывает, а также готовит любые капли.
 
-## Cleaver
-![Cleaver](item:tconstruct:cleaver 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt", "manyullyn"]}})
-Cleavers do more damage but swing slowly, and have a chance of beheading mobs.
+## Нож мясника
+![Нож мясника](item:tconstruct:cleaver 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt", "manyullyn"]}})
+Нож мясника наносят больше урона, но медленно качаются и имеют шанс обезглавить мобов.
 
-## Arrow
-![Arrow](item:tconstruct:arrow 1 0 {TinkerData: {Materials: ["wood", "iron", "slimeleaf_blue"]}})
-Arrows are fired from Bows. Heavier arrows have a shorter range than light arrows. Damage modifiers should be applied to Arrows, not Bows.
+## Стрела
+![Стрела](item:tconstruct:arrow 1 0 {TinkerData: {Materials: ["wood", "iron", "slimeleaf_blue"]}})
+Стрелы стреляют из луков. Тяжелые стрелки имеют меньшую дальность, чем легкие стрелки. Модификаторы урона должны применяться к стрелам, а не к лукам.
 
-## Shortbow
-![Shortbow](item:tconstruct:shortbow 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
-Shortbows are faster and more accurate.
+## Короткий лук
+![Короткий лук](item:tconstruct:shortbow 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
+Короткие луки быстрее и точнее.
 
-## Longbow
-![Longbow](item:tconstruct:longbow 1 0 {TinkerData: {Materials: ["wood", "cobalt", "iron"]}})
-Longbows are slower, but have higher damage and longer range.
+## Длинный лук
+![Длинный лук](item:tconstruct:longbow 1 0 {TinkerData: {Materials: ["wood", "cobalt", "iron"]}})
+Длинные луки медленнее, но имеют больший урон и большую дальность.
 
-## Bolt
-![Bolt](item:tconstruct:bolt 1 0 {TinkerData: {Materials: ["wood", "iron", "slimeleaf_blue"]}})
-Bolts are fired from Crossbows. They do a very large amount of damage and penatrate armor.
-To make Bolt Cores, pour the molten material that you want the head to be made out of onto an Arrow Shaft.
+## Болт
+![Болт](item:tconstruct:bolt 1 0 {TinkerData: {Materials: ["wood", "iron", "slimeleaf_blue"]}})
+Болты стреляют из арбалетов. Они наносят очень большой урон и пробивают доспехи.
+Для изготовления болтовых сердечников вылейте расплавленный материал, из которого вы хотите сделать головку, на вал стрелы.
 
-## Crossbow
-![Crossbow](item:tconstruct:crossbow 1 0 {TinkerData: {Materials: ["wood", "cobalt", "iron"]}})
-Crossbows take a long time to load, but do a very large amount of damage.
+## Арбалет
+![Арбалет](item:tconstruct:crossbow 1 0 {TinkerData: {Materials: ["wood", "cobalt", "iron"]}})
+Зарядка арбалетов занимает много времени, но наносит очень большой урон.
 
-## Shuriken
-![Shuriken](item:tconstruct:shuriken 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt", "manyullyn"]}})
-Shurikens can be thrown quickly and have a fair range. The ammo count is based on the durability, so if you put Unbreaking X on it it will have infinite ammo.
+## Сюрикен
+![Сюрикен](item:tconstruct:shuriken 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt", "manyullyn"]}})
+Сюрикены могут быть брошены быстро и имеют достаточный диапазон. Количество боеприпасов основано на долговечности, поэтому, если вы положите Прочость X на него, у него будет бесконечный боеприпас.

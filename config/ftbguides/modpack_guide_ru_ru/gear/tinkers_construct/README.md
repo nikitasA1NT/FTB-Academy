@@ -1,8 +1,8 @@
 #Tinkers' Construct 2
 
-Tinkers' Construct 2 allows players to create modular tools and weapons. Mix and match different materials and add modifiers to make the ultimate tool.
+Tinkers' Construct 2 позволяет игрокам создавать модульные инструменты и оружие. Смешивайте и подбирайте разные материалы и добавляйте модификаторы, чтобы создать идеальный инструмент.
 
 ![](tools.png)
 
-![Materials and You](item:tconstruct:book)
-You can read "Materials and You" for an in-depth guide to every tool, weapon, material, and modifier added by the mod.
+![Материалы и Вы](item:tconstruct:book)
+Вы можете прочитать «Материалы и Вы» для подробного руководства по каждому инструменту, оружию, материалу и модификатору, добавленному модом.

@@ -1,8 +1,8 @@
-#Destruction Gadget
-![Destruction Gadget](item:buildinggadgets:destructiontool)
-The Destruction Gadget allows you to destroy a massive amount of blocks at once. Blocks destroyed are not dropped, they are gone forever (though you can undo with U by default).
+#Гаджет разрушения
+![Гаджет разрушения](item:buildinggadgets:destructiontool)
+Гаджет Разрушения позволяет вам уничтожать огромное количество блоков одновременно. Разрушенные блоки не удаляются, они исчезают навсегда (хотя вы можете отменить с U по умолчанию).
 
-Sneak right click it to set the area it will effect. Set the number in each direction to say how many blocks in that direction it will break.
+Нажмите правой кнопкой мыши, чтобы установить область, на которую это повлияет. Установите число в каждом направлении, чтобы сказать, сколько блоков в этом направлении оно сломает.
 
-If you set it so that Up, Down, Left, and Right are each 1, it will break 1 block in each direction away from the center breaking a 3x3 area.
+Если вы установите его так, что Вверх, Вниз, Влево и Вправо будут равны 1, то он будет разбивать 1 блок в каждом направлении от центра, преодолевая область 3x3.
 ![](3x3.png)

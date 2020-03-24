@@ -1,29 +1,29 @@
-#Building Gadget
-![Building Gadget](item:buildinggadgets:buildingtool)
-The Bulding Gadget allows you to quickly build simple structures like walls and stairs. 
-Sneak right click on a block to set the Gadget to build that block, and right click to build where the hologram shows.
+#Строительный гаджет
+![Строительный гаджет](item:buildinggadgets:buildingtool)
+Строительный гаджет позволяет быстро создавать простые конструкции, такие как стены и лестницы.
+Нажмите правой кнопкой мыши на блок, чтобы установить гаджет, чтобы построить этот блок, и щелкните правой кнопкой мыши, чтобы построить там, где отображается голограмма.
 
-Building Modes
+Режимы строительства
 ![](buildtome.png)
-The Build to Me mode will attempt to make a straight line of blocks from where you're pointing to you.
+Режим Построить до меня будет пытаться создать прямую линию блоков от того места, куда вы указываете.
 
 ![](grid.png)
-The Grid mode will make a grid of the block you set it in the area defined by the range.
+Режим сетки создаст сетку блока, который вы установили, в области, определенной диапазоном.
 
 ![](verticalwall.png)
-The Vertical Wall mode will make a wall, with the length of each side defined by the range. 
+Режим вертикальной стены создает стену, длина каждой стороны которой определяется диапазоном. 
 
 ![](horizontalwall.png)
-The Horizontal Wall mode will make a floor, with the length defined by the range.
+Режим горизонтальной стены создаст пол с длиной, определяемой диапазоном.
 
 ![](surface.png)
-The Surface mode will place blocks on every block of the type you're looking at, with the area depending on the range. This mode has additional options. Enabling Fuzzy will allow it to work on all similar blocks instead of the exact same block, so for instance different wood types will both count as the same block. Connected Surface will require that all the blocks touch for them to be placed on.
+Режим Поверхность будет помещать блоки на каждый блок того типа, на который вы смотрите, с областью, зависящей от диапазона. Этот режим имеет дополнительные параметры. Включение параметра Нечеткий позволит ему работать на всех одинаковых блоках вместо одного и того же блока, поэтому, например, разные типы древесины будут учитываться как один и тот же блок. Соединенная поверхность потребует, чтобы все блоки касались их для размещения.
 
 ![](stairs.png)
-The Stairs mode will place blocks diagonally downward or upward, depending on if you're above or below the block.
+Режим Лестницы будет размещать блоки по диагонали вниз или вверх, в зависимости от того, находитесь ли вы над или под блоком.
 
-![The anchor was placed while on the right of the placed Fence block](horizontalcolumn.png)
-The Horizontal Column will place a row of blocks on the opposite side of the block you're looking at. 
+![Якорь был помещен в то время как справа от блока забора](horizontalcolumn.png)
+Горизонтальная колонка разместит ряд блоков на противоположной стороне блока, на который вы смотрите. 
 
 ![](verticalcolumn.png)
-The Vertical Column will place a pillar of blocks straight up or down.
+Вертикальная колонка разместит столб из блоков прямо вверх или вниз.

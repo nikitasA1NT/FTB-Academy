@@ -1,27 +1,27 @@
 [
 	{
 		"id": "building",
-		"title": "Building Gadget",
+		"title": "Строительный гаджет",
 		"icon": "item:buildinggadgets:buildingtool"
 	},
 	{
 		"id": "exchanging",
-		"title": "Exchanging Gadget",
+		"title": "Гаджет замены",
 		"icon": "item:buildinggadgets:exchangertool"
 	},
 	{
 		"id": "copypaste",
-		"title": "Copy-Paste Gadget",
+		"title": "Гаджет Копировать-Вставить",
 		"icon": "item:buildinggadgets:copypastetool"
 	},
 	{
 		"id": "destruction",
-		"title": "Destruction Gadgets",
+		"title": "Гаджет разрушения",
 		"icon": "item:buildinggadgets:destructiontool"
 	},
 	{
 		"id": "paste",
-		"title": "Construction Paste",
+		"title": "Строительная паста",
 		"icon": "item:buildinggadgets:constructionpastecontainer"
 	}
 ]

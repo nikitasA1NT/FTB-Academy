@@ -1,17 +1,17 @@
-#Building Gadgets
+#Строительные гаджеты
 
-Building Gadgets is a mod by Direwolf20 that adds several tools that make building in Minecraft very much easier.
-[You can read the official wiki for the mod by clicking here](https://github.com/Direwolf20-MC/BuildingGadgets/wiki)
-All Gadgets need RF to function.
+Building Gadgets - это мод от Direwolf20, который добавляет несколько инструментов, которые значительно упрощают создание в Minecraft.
+[Вы можете прочитать официальную вики для мода, нажав здесь](https://github.com/Direwolf20-MC/BuildingGadgets/wiki)
+Все гаджеты нуждаются в RF для работы.
 
 
-Hold the mods's Settings button (G by default) to open the radial menu:
+Удерживайте кнопку «Настройки» модов (по умолчанию G), чтобы открыть радиальное меню:
 ![](radial.png)
-The radial menu has all the different settings for the Tools. On the Building Gadget, each of the buttons on the circle are a different building mode, the buttons on the right are options for that building mode, and the buttons on the left are for manipulating the world.
+Радиальное меню имеет все различные настройки для инструментов. В Building Gadget каждая из кнопок на круге представляет собой отдельный режим здания, кнопки справа - это опции для этого режима здания, а кнопки слева - для управления миром.
 
 ![](/copypaste/paste.png)
-The Anchor button will keep the structure right where it was when the button was placed, so you can walk around it and make sure it's how you want it to be.
+Кнопка Якорь сохранит структуру там, где она была, когда кнопка была размещена, так что вы можете обойти ее и убедиться, что вы хотите, чтобы она была.
 
-Building Gadgets will remember the last 10 times it was used, and you can undo them with the Undo button.
+При создании гаджетов запоминаются последние 10 раз, когда они использовались, и вы можете отменить их с помощью кнопки Отменить.
 
-The Rotate button will rotate the entire structure, or blocks within the structure like Stairs.
+Кнопка Повернуть будет вращать всю структуру или блоки внутри структуры, такие как Лестницы.

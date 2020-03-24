@@ -1,20 +1,20 @@
 # Better Builder's Wands
 
-Better Builder's Wands adds several tools to allow you to place blocks easier. Higher tiers can place more blocks simultaneously as well as place them in more places.
-Wands can only place the block of the surface they are being used on. That means if you click them on Sand they will place Sand. This makes them good for extending surfaces or filling holes.
+Better Builder's Wands добавляет несколько инструментов, чтобы вы могли размещать блоки проще. Более высокие уровни могут размещать больше блоков одновременно, а также размещать их в большем количестве мест.
+Жезлы могут размещать только блок поверхности, на которой они используются. Это означает, что если вы нажмете их на песке, они разместят песок. Это делает их хорошими для расширения поверхностей или заполнения отверстий.
 
 ![Stone Wand](item:betterbuilderswands:wandstone)
-The Stone Wand can place up to 5 blocks horizontally on the side of other blocks.
+Каменная палочка может разместить до 5 блоков горизонтально на стороне других блоков.
 ![](stone.png)
 
 ![Iron Wand](item:betterbuilderswands:wandiron)
-The Iron Wand can place up to 9 blocks either vertically or horizontally on the side of other blocks.
+Железная палочка может разместить до 9 блоков вертикально или горизонтально на стороне других блоков.
 ![](iron.png)
 ![To change between vertical and horizontal, hit M by default.](iron_vert.png)
 
 ![Diamond Wand](item:betterbuilderswands:wanddiamond)
-The Diamond Wand can place up to 1561 blocks, extending the entire connected surface of blocks. It can be used on any side of a block, including the top and bottom.
+Алмазная палочка может разместить до 1561 блока, расширяя всю соединенную поверхность блоков. Его можно использовать на любой стороне блока, включая верх и низ.
 ![](diamond.png)
 
 ![Unbreakable Wand](item:betterbuilderswands:wandunbreakable)
-There are 3 tiers of Unbreakable Wands, each able to place double that of the previous tier. They have unlimited durability and otherwise function identically to the Diamond Wand.
+Есть 3 уровня Небьющейся палочки, каждый из которых способен удвоить уровень предыдущего уровня. Они имеют неограниченную долговечность и в остальном функционируют идентично Алмазной палочке.
