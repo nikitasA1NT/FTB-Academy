@@ -1,35 +1,35 @@
-#Swamp bosses
+#Болотные боссы
 
-###Minoshroom
+###Минотавр
 
-![This is what the Labyrinth looks like on the Magic Map](labyrinthmap.png)
+![Вот так выглядит Лабиринт Минотавра на Волшебной карте](labyrinthmap.png)
 
-The Minoshroom is a Mooshroom minotaur that can be found at the bottom of Labyrinths, which spawn in Twilight Swamps.
+Минотавр - это грибной Минотавр, которого можно найти на дне Лабиринтов, которые появляются в Сумеречных Болотах.
 ![](labyrinth_exterior.png)
 
-If you have not killed and looted the Lich, the Twilight Forest will be full of mosquitos that will attack you and give you Hunger.
+Если вы не убили и не разграбили Лича, Сумеречный Лес будет полон комаров, которые нападут на вас и дадут вам Голод.
 ![](swamp_locked.png)
 
-Inside the Labyrinth, you can find Minotaurs, Maze Slimes, and Fire and Slime Beetles. Minotaurs have a chance of dropping a Maze Map Focus, which can be crafted into a Maze Map which makes navigating the Labyrinth much easier. They can also make Uncrafting Tables, which allow you to uncraft an item back into its base ingredients.
-The Labyrinth is made of Mazestone, which is very slow to mine. There are also traps and loot galore, so be sure to grab what you can carry.
+Внутри Лабиринта вы можете найти Минотавров, Слизней Лабиринта и Жуков Огня и Слизи. У минотавров есть шанс сбросить фокус карты лабиринта, который можно встроить в карту лабиринта, что значительно облегчает навигацию по Лабиринту. Они также могут создавать Столы раскрафта, которые позволяют вам отменить крафт предмета и обратно получить его базовые ингредиенты.
+Лабиринт сделан из Камня лабиринта, который очень медленный для ломания. Есть также ловушки и много лута, так что не забудьте захватить то, что вы можете взять с собой.
 
 ![](minoshroom.png)
-At the bottom of the Labyrinth you can find the Minoshroom. It has a very large amount of health and does a fair amount of damage, so be prepared for a fight. There are no special tactics involved, just keep hitting it.
+Внизу Лабиринта вы можете найти Минот. Он имеет очень большое количество здоровья и наносит значительный урон, так что будьте готовы к бою. Там нет особой тактики, просто продолжайте наносить удары.
 
-Killing the Minoshroom will net you a Minoshroom Trophy and some Meef Stroganoff, as well as the treasures in the chests. Eat the Meef Stroganoff to be able to enter the Fiery Swamp at the center of the Twilight Swamp.
+Убийство Минотавра принесет вам Трофей Минотавра и Суп из него, а также сокровища в сундуках. Съешьте Суп из минотавра, чтобы войти в Огненное Болото в центре Сумеречного Болота.
 
 
 
-###Hydra
+###Гидра
 
-![This is what the Hydra looks like on the Magic Map](hydramap.png)
+![Вот как выглядит Гидра на Волшебной карте](hydramap.png)
 
-The Hydra is a giant multi-headed dragon that breathes fire and spawns in the Hydra Lair, which is at the center of Fire Swamps.
+Гидра - это гигантский многоголовый дракон, который дышит огнем и появляется в Логове Гидры, которое находится в центре Огненных Болот.
 
-If you have not eaten Meef Stroganoff, the Fire Swamp will be too hot to enter, lighting you on fire if you try.
+Если вы еще не ели Меф Строганов, Огненное Болото будет слишком горячим, чтобы вы сгорели, если попытаетесь пройти.
 ![](fire_swamp_locked.png)
 
 ![](hydra.png)
-The Hydra will attack by blowing fire at you, or by shooting explosive bombs. It can only take damage by being shot in its open mouth, so try to tempt it to breath fire at you.
+Гидра будет атаковать, стреляя в вас или стреляя из взрывных бомб. Она может получить урон только из-за того, что её попали в открытый рот, поэтому попытайтесь соблазнить ее вдохнуть в вас огонь.
 
-Once defeated, the Hydra will drop Hydra Chops, a Hydra Trophy, and Firey Blood, which is one thing needed to gain access to the Highlands.
+После победы из Гидры выпадут Мясо Гидры, Трофей Гидры и Огненная Кровь, что необходимо для получения доступа в Горную местность.

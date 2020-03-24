@@ -1,8 +1,8 @@
-#Bosses
+#Боссы
 
-The progression in the Twilight Forest is linked to bosses. Each boss spawns in its own biome and its own structure, which you cannot enter without defeating the previous boss.
+Прогресс в Сумеречном Лесу связан с боссами. Каждый босс порождает свой собственный биом и свою собственную структуру, в которую вы не сможете войти, не победив предыдущего босса.
 
 ![](magic_map.png)
-The best way to navigate the Twilight Forest is using the Magic Map. Craft a Blank Magic Map and right click it to open it. It will color code based on biome, with icons where structures are. You can use these to find the bosses.
+Лучший способ ориентироваться в Сумеречном лесу - использовать Магическую карту. Создайте пустую карту магии и щелкните ее правой кнопкой мыши, чтобы открыть. Это будет цветной код, основанный на биоме, с иконками, где структуры. Вы можете использовать их, чтобы найти боссов.
 
-You have to defeat the Forest bosses first in order, and then you can do the Swamp, Ice, or Dark Forest biomes in any order (although each has their own progression).
+Сначала вы должны победить лесных боссов по порядку, а затем вы можете проходить биомы Болотной, Ледяной или Темный Лес в любом порядке (хотя у каждого свой прогресс).

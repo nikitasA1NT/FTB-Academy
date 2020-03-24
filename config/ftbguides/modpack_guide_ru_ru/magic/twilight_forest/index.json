@@ -1,12 +1,12 @@
 [
 	{
 		"id": "bosses",
-		"title": "Bosses",
+		"title": "Боссы",
 		"icon": "item:twilightforest:miniature_structure 1 5"
 	},
 	{
 		"id": "questing_ram",
-		"title": "Questing Ram",
+		"title": "Нян-баран",
 		"icon": "item:twilightforest:trophy 1 8"
 	}
 ]

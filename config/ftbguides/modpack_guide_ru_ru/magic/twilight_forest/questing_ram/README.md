@@ -1,7 +1,7 @@
-#Questing Ram
+#Нян-баран
 
-The Questing Ram is a passive boss found in the Quest Grove, which spawns in the Enchanted Forest biome.
+Нян-баран - пассивный босс, найденный в Квестовой роще, которая появляется в биоме Заколдованного леса.
 ![](before.png)
 
-Instead of killing the Questing Ram, you are supposed to give it one of each color Wool. As a reward, it will give you a Block of Lapis, Iron, Gold, Diamond and Emerald each. It will also give the Crumble Horn, which will turn Stone into Cobblestone, into Gravel, into Dirt.
+Вместо того, чтобы убивать Нян-барана, вы должны дать ему по одному цвету шерсти. В качестве награды вы получите блок из ляписа, железа, золота, алмаза и изумруда каждый. Это также даст Рог изобилия, что превратит камень в булыжник, в гравий, в грязь.
 ![](after.png)

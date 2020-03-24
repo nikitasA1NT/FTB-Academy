@@ -1,17 +1,17 @@
-#Magic
-While tech mods usually go hand in hand with each other, being mostly combinable with each other, magic mods are much more standalone. They often have little to no interaction with each other, and almost always stay within a specific theme.
+#Магия
+В то время как технические моды обычно идут рука об руку друг с другом, в основном комбинируясь друг с другом, магические моды гораздо более автономны. Они часто практически не взаимодействуют друг с другом и почти всегда остаются в рамках определенной темы.
 
 ## Botania
-Botania describes itself as "a tech mod themed around natural magic." It does all the things a tech mod usually does, except in the form of magical flowers.
-![Lexica Botania](item:botania:lexicon)
-The Lexica Botania is basically the best in-game documentation ever, and it's built in to the mod so we don't really need a page for it in the Guide. Read the Lexica Botania and follow the quests to learn more about the mod.
+Botania описывает себя как «технический мод, основанный на естественной магии». Он делает все то, что обычно делает технический мод, кроме как в форме волшебных цветов.
+![Лексика Ботании](item:botania:lexicon)
+Лексика Ботании - это, по сути, лучшая игровая документация, и она встроена в мод, поэтому нам не нужна страница для этого в Руководстве. Прочитайте Лексику Ботании и следуйте квестам, чтобы узнать больше о моде.
 
 ## Astral Sorcery
-Astral Sorcery is a much more traditional magic mod, "focused around harnessing the powers of starlight and the constellations."
-![Astral Tome](item:astralsorcery:itemjournal)
-Like Botania, Astral Sorcery has a book that has all the information you need. Read the Astral Tome and follow the quests to learn more about the mod.
+Astral Sorcery это гораздо более традиционный магический мод, "сфокусированный на использовании сил звездного света и созвездий."
+![Астральный Том](item:astralsorcery:itemjournal)
+Как и у Botania, у Astral Sorcery есть книга, в которой есть вся необходимая информация. Прочитайте Астральный Том и выполните квесты, чтобы узнать больше о моде.
 
 ## Twilight Forest
-Twilight Forest adds an entire new dimension, full of new animals, biomes, monsters, and bosses.
+Twilight Forest добавляет совершенно новое измерение, полное новых животных, биомов, монстров и боссов.
 ![](/twilight_forest/main.png)
-[Twilight Forest does not have an in-game guide, so we have a section in the Guide here that you can read for information, along with the quests.](guide:twilight_forest)
+[В Twilight Forest нет руководства по игре, поэтому у нас есть раздел в Руководстве, который вы можете прочитать для получения информации и квестов.](guide:twilight_forest)

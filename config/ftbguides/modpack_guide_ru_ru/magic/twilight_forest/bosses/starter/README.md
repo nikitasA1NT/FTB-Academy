@@ -1,43 +1,43 @@
-#Starter bosses
+#Начальные боссы
 
-###Naga
+###Нага
 
-![The Naga will show up as this on the Magic Map](nagamap.png)
+![Так Нага отображается на Волшебной карте](nagamap.png)
 
 ![](naga.png)
-The Naga is a giant snake that can be found in the Naga Courtyard, which spawns in most forest biomes.
-It will chase you around and run into you to cause damage. You can hurt it by hitting it anywhere. As it loses health, it will get shorter. There is no special strategy needed, just hit it until it dies.
+Нага - гигантская змея, которую можно найти во дворе Наги, которая появляется в большинстве лесных биомов.
+Он будет преследовать вас и наталкиваться на вас, чтобы нанести ущерб. Вы можете повредить это, ударяя это где-нибудь. Когда он теряет здоровье, он становится короче. Специальной стратегии не требуется, просто ударь ее, пока она не умрет.
 
-The Naga will drop Naga Scales and a Naga Trophy. Picking these up will allow you to access the Lich Tower.
+Нага сбросит Весы Наги и Трофей Наги. Подняв их, вы получите доступ к Башне Личей.
 
 
-###Lich
+###Лич
 
-![The Lich will show up as this on the Magic Map](lichmap.png)
+![Так Лич будет отображаться на Волшебной карте](lichmap.png)
 
-The Lich is a skeleton king that can be found in the Lich Tower, which spawns in most forest biomes.
+Лич - это король-скелет, который можно найти в Башне Личей, которая появляется в большинстве лесных биомов.
 
-If you have not killed and looted the Naga, the tower will be protected by magic. Mobs will not be able to take damage, and blocks will not be able to be broken.
+Если вы не убили и не разграбили Нагу, башня будет защищена магией. Мобы не смогут получать урон, а блоки не смогут быть разбиты.
 ![](lich_locked.png)
 
-You can find the Lich at the top of the tower.
+Вы можете найти Лича на вершине башни.
 ![](lich.png)
-The Lich battle has three stages:
-During the first phase, the Lich will resist all damage and have 2 minions that attack you. Blue projectiles can be reflected at the Lich to break its shields, and orange projectiles explode.
-Once all of its shields are down, the Lich will begin to spawn Zombies to attack you.
-Kill all the Zombies and the Lich will begin to attack you directly with a Golden Sword. It can take damage now.
+Битва с Личем состоит из трех этапов:
+На первом этапе Лич будет противостоять всем повреждениям и атакует вас двумя миньонами. Синие снаряды можно отражать на Лича, чтобы разбить его щиты, а оранжевые снаряды взрываются.
+Как только все его щиты опустятся, Лич начнет порождать Зомби, чтобы атаковать вас.
+Убейте всех Зомби, и Лич начнет атаковать вас с помощью золотого меча. Теперь он может получать урон.
 
-After you kill and loot the Lich, you will be able to access the Twilight Swamp, Dark Forest, and Snowy Forest biomes.
+После того как вы убьете и разграбите Лича, вы сможете получить доступ к биомам Сумеречного болота, Темного леса и Снежного леса.
 
-When defeated, the Lich will drop one of 4 Scepters.
-![Scepter of Twilight](item:twilightforest:twilight_scepter)
-The Scepter of Twilight will allow you to shoot out the same blue projectiles that the Lich used in the first phase. Each projectile does 3 hearts of damage. The Scepter can be used 99 times before needing to be recharged with an Ender Pearl.
+При победе из Лича выпадет один из 4 Скипетров.
+![Скипетр Сумерек](item:twilightforest:twilight_scepter)
+Сумеречный скипетр позволит вам стрелять теми же синими снарядами, которые использовал лич в первой фазе. Каждый снаряд наносит 3 сердца урона. Скипетр можно использовать 99 раз, прежде чем его нужно будет зарядить Жемчугом Эндера.
 
-![Scepter of Life](item:twilightforest:lifedrain_scepter)
-The Scepter of Life Draining will drain the health of whatever mob is being targeted and give that health to the player using it. It can be used 99 times before having to be recharged with a Fermented Spider Eye.
+![Скипетр Жизни](item:twilightforest:lifedrain_scepter)
+Скипетр жизни истощает истощает здоровье любого моба и дает это здоровье игроку, использующему его. Его можно использовать 99 раз перед тем, как его перезарядить Маринованным паучьим глазом.
 
-![Zombie Scepter](item:twilightforest:zombie_scepter)
-The Zombie Scepter will spawn a Loyal Zombie, similar to the ones spawned by Lich. After a while, Loyal Zombies will begin to burn until they die. It can be used 9 times before before having to be recharged with Rotten Flesh and a Potion of Strength II. 
+![Зомби скипетр](item:twilightforest:zombie_scepter)
+Зомби-Скипетр породит Лояльного Зомби, подобного тем, которых порождает Лич. Через некоторое время Верные Зомби начнут гореть, пока не умрут. Его можно использовать 9 раз, прежде чем его можно будет перезарядить Гнилой плотью и Зельем силы II.
 
-![Scepter of Fortification](item:twilightforest:shield_scepter)
-The Scepter of Fortification will summon shields around the player. These shields will block all physical damage, but will break afterwards. It can be used 9 times before having to be recharged with a Golden Apple.
+![Скипетр укрепления](item:twilightforest:shield_scepter)
+Скипетр укрепления будет призывать щиты вокруг игрока. Эти щиты заблокируют весь физический урон, но впоследствии сломаются. Его можно использовать 9 раз, прежде чем его необходимо будет зарядить Золотым яблоком.

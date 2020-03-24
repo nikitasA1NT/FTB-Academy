@@ -1,32 +1,32 @@
-#Ice bosses
+#Ледяные боссы
 
-###Alpha Yeti
+###Альфа Йети
 
-![This is what the Yeti Lair looks like on the Magic Map](yetimap.png)
+![Так выглядит Логово Йети на Волшебной карте.](yetimap.png)
 
-The Alpha Yeti is a large furry monster that can be found in the Yeti Lair, which spawns in Snowy Forests.
+Альфа Йети - крупный пушистый монстр, который можно найти в Логове Йети, которое появляется в Снежных Лесах.
 ![](yetilair.png)
 
-If you have not killed and looted the Lich, the Snowy Forest will have an impassable blizzard that gives extreme slowness.
+Если вы не убили и не разграбили Лича, у Снежного Леса будет непроходимая метель, дающая чрезвычайную медлительность.
 ![](snow_locked.png)
 
 ![](yeti.png)
-You can find the Alpha Yeti at the center of Yeti Lairs. The Alpha Yeti will begin by thowing huge blocks of ice at the player, freezing everything it lands near. During this stage, it will block all ranged hits. If the player gets a close-range hit in it will enter the next stage, jumping up and down causing ice to fall from the ceiling. After 20 seconds, it will return to the first phase.
+Вы можете найти Альфа Йети в центре Йети Ларс. Альфа-йети начнет с того, что бросит в игрока огромные глыбы льда, заморозив все, что находится рядом с ним. На этом этапе он будет блокировать все дальние попадания. Если игрок получает удар с близкого расстояния, он переходит на следующую стадию, прыгая вверх и вниз, в результате чего лед падает с потолка. Через 20 секунд он вернется к первому этапу.
 
-After the Alpha Yeti is defeated, it will drop Ice Bombs (which allow you to throw Ice like the Alpha Yeti), Arctic Fur, and Alpha Yeti Fur, which is required to be able to climb the Glacier.
+После победы над Альфа-Йети он сбросит Ледяные Бомбы (которые позволяют бросать Лед, как Альфа-Йети), Арктический мех и мех Альфа-йети, который необходим для того, чтобы иметь возможность подняться на ледник.
 
 
-###Snow Queen
+###Снежная королева
 
-![This is what the Snow Queen looks like on the Magic Map](snow_queenmap.png)
+![Вот так выглядит Снежная Королева на Волшебной карте](snow_queenmap.png)
 
-The Snow Queen is at the top of the Aurora Palace, on top of the Glacier.
+Снежная королева находится на вершине дворца Авроры, на вершине ледника.
 
-If you have not killed and looted the Alpha Yeti, the Glacier will have an impassable blizzard that gives extreme slowness.
+Если вы не убили и не разграбили Альфа Йети, у Ледника будет непроходимая метель, дающая чрезвычайную медлительность.
 ![](glacier_locked.png)
 
 ![](snow_queen.png)
-The Aurora Palace has various ice-themed enemies to defeat. The Snow Queen is at the top. She rides a flying cloud of ice, which blocks damage from going through.
-The Snow Queen can spawn Ice Crystal mobs, slam into the ground, and slide along the ground shooting ice magic. Use the last two moves as opportunities to deal damage.
+У Аврорского дворца есть различные враги на ледяной тематике, которые нужно победить. Снежная Королева наверху. Она едет на летающем облаке льда, которое блокирует повреждения от прохождения.
+Снежная Королева может порождать мобов Ледяного Кристалла, врезаться в землю и скользить по земле, отстреливая ледяную магию. Используйте последние два хода как возможность нанести урон.
 
-Defeating the Snow Queen will give a Tri-bow (which shoots 3 arrows) or a Seeker Bow (whose arrows home in on enemies), as well as a Snow Queen Trophy. Defeating the Snow Queen is also one of the requirements to enter the Highlands.
+Победа над Снежной Королевой даст Тройной-Лук (который стреляет 3 стрелами) или Лук-Искатель (чьи стрелы попадают на врагов), а также Трофей Снежной Королевы. Победа над Снежной Королевой также является одним из требований для входа в Горную местность.
