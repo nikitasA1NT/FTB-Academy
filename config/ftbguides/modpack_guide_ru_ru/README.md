@@ -1,16 +1,16 @@
 ![](welcome.png)
 
-FTB Academy is a modpack dedicated to teaching new players how to play modded Minecraft. We will go over all the important concepts and the most popular mods, so you can use that knowledge to play more complex modpacks.
+FTB Academy - это модпак, предназначенный для обучения новых игроков игре в модифицированном майнкрафте. Мы рассмотрим все важные концепции и самые популярные моды, чтобы вы могли использовать эти знания для игры в более сложные модпаки.
 
 ![](/your_interface/ftb/myteam.png)
-If you are playing with somebody else, you should create and join a team. This is done by clicking the My Team button at the top left of your inventory.
+Если вы играете с кем-то еще, вы должны создать команду и присоединиться к ней. Это можно сделать, нажав кнопку «Моя команда» в левом верхнем углу вашего инвентаря.
 
-At the very top of the Guide menu, you can see the directory of the page you're on. You can click on the name of the previous pages to go back to that page. You can also hit backspace to go back one page.
+В самом верху меню Руководства вы можете увидеть каталог страницы, на которой вы находитесь. Вы можете нажать на название предыдущих страниц, чтобы вернуться на эту страницу. Вы также можете нажать Backspace, чтобы вернуться на одну страницу назад.
 ![](directory.png)
-You can change the theme, refresh the guide (which is only really useful for modpack makers), and close the guide using the buttons at the top right. You can also close the guide by hitting E or Escape.
+Вы можете изменить тему, обновить руководство (что действительно полезно только для создателей модпаков) и закрыть руководство с помощью кнопок в правом верхнем углу. Вы также можете закрыть руководство, нажав E или Escape.
 
-Directly under that, you can see the available pages you can go to. Click on the name of the page to open it.
+Прямо под этим вы можете увидеть доступные страницы, на которые вы можете перейти. Нажмите на название страницы, чтобы открыть ее.
 ![](chapters.png)
 
-Some images can be hovered over to see extra text.
+На некоторые изображения можно навести курсор, чтобы увидеть дополнительный текст.
 ![Hi!](/magic/twilight_forest/main.png)
