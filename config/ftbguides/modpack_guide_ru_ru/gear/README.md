@@ -1,15 +1,15 @@
 # Gear, Weapons, and Tool
 
-This chapter is dedicated to showing off items added by mods.
+Эта глава посвящена демонстрации предметов, добавленных модами.
 
 ![](/tinkers_construct/tools.png)
-Tinkers' Construct 2 adds a large amount of modular tools and weapons, whose materials define how they function.
+Tinkers' Construct 2 добавляет большое количество модульных инструментов и оружия, чьи материалы определяют, как они функционируют.
 
 ![](/building_gadgets/copypaste/copy.png)
-Building Gadgets adds several tools that make building structures extremely easy.
+Building Gadgets добавляет несколько инструментов, которые делают строительные конструкции чрезвычайно простыми.
 
 ![](/chisel/chisel3.png)
-Chisel adds an extremely large amount of decorative blocks and tools to make them.
+Chisel добавляет чрезвычайно большое количество декоративных блоков и инструментов для их изготовления.
 
 ![](/better\_builders\_wands/diamond.png)
-Better Builders Wands adds tools that allow you to extend blocks in the world quickly and easily.
+Better Builders Wands добавляет инструменты, которые позволяют быстро и легко расширять блоки в мире.
