@@ -1,12 +1,12 @@
-#Gravestones
+#Надгробия
 
 ![](grave.png)
-The mod Tomb Many Graves makes it so that when you die, a Player Grave is placed in the world at the location you died. You can return to it and sneak while standing on it to return all the items you had in your inventory to their original places.
+Мод Tomb Many Graves делает так, что когда вы умираете, в мире, где вы умерли, помещается Могила игрока. Вы можете вернуться к нему и подкрасться, стоя на нем, чтобы вернуть все предметы, которые у вас были в инвентаре, на свои первоначальные места.
 
 ![](deathinventorylist.png)
-When you respawn, you will have a Death Inventory List that will tell you everything you had in your inventory when you died, as well as where your grave is. When you get nearby, holding the Death Inventory List will point you in the direction of your grave.
-![The brighter the smoke, the closer you are to your grave](pointer.png)
+Когда вы возродитесь, у вас будет список инвентаря смерти, который расскажет вам все, что было в вашем инвентаре, когда вы умерли, а также где находится ваша могила. Когда вы окажетесь поблизости, удержание списка инвентаря смерти укажет вам направление на вашу могилу.
+![Чем ярче дым, тем ближе вы к могиле](pointer.png)
 
 
 ![](waypoint.png)
-Journeymap creates a deathpoint at the location you died, so you can easily find it. You can see it in the minimap and world map, as well as looking like a regular waypoint in the world.
+Journeymap создает точку смерти в месте, где вы умерли, чтобы вы могли легко найти ее. Вы можете увидеть это на мини-карте и карте мира, а также выглядеть как обычная точка в мире.

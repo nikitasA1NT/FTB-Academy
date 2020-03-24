@@ -1,6 +1,6 @@
-# Text Font
+# Текстовый шрифт
 
-FTB Academy (and most other FTB modpacks) includes the mod Smooth Font, which helps make the font look better. It also changes the default font from the blocky text to something smoother (by default, Verdana).
+FTB Academy (и большинство других модпакетов FTB) включает в себя мод Smooth Font, который помогает улучшить внешний вид шрифта. Он также изменяет шрифт по умолчанию с блочного текста на более гладкий (по умолчанию Verdana).
 
-You can hit the Home key to open the Smooth Font settings menu, where you can select any other font to use, including the regular vanilla blocky font.
+Вы можете нажать клавишу Home, чтобы открыть меню настроек Smooth Font, где вы можете выбрать любой другой шрифт, включая обычный шрифт vanilla blocky.
 ![](fonts.png)

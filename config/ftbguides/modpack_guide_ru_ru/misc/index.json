@@ -1,22 +1,22 @@
 [
 	{
 		"id": "glossary",
-		"title": "Glossary",
+		"title": "Глоссарий",
 		"icon": "item:minecraft:book"
 	},	
 	{
 		"id": "graves",
-		"title": "Gravestones",
+		"title": "Надгробия",
 		"icon": "item:minecraft:skull"
 	},
 	{
 		"id": "commands",
-		"title": "Commands",
+		"title": "Команды",
 		"icon": "item:minecraft:command_block"
 	},
 	{
 		"id": "font",
-		"title": "Text Font",
+		"title": "Текстовый шрифт",
 		"icon": "item:minecraft:sign"
 	}
 ]

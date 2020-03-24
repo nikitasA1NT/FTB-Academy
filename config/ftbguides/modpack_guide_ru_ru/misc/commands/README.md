@@ -1,19 +1,19 @@
-# Commands
+# Команды
 
-These commands are just useful for general play. These commands may be disabled depending on the server, or you may need special permissions (or cheats enabled if in single player) to use them.
+Эти команды просто полезны для общей игры. Эти команды могут быть отключены в зависимости от сервера, или вам могут потребоваться специальные разрешения (включенные читы в одиночной игре), чтобы использовать их.
 
-"/back" will teleport you to where you last died, but only once per life.
+"/back" телепортирует вас туда, где вы в последний раз умерли, но только один раз в жизни.
 
-"/tpa [player]" will request to teleport yourself to that player, and if they accept you will be teleported to them.
+"/tpa [player]" попросит телепортировать себя к этому игроку, и если они примет вас, вы будете телепортированы к нему.
 
-"/sethome [name]" will set the point you are standing on as a home of that name, and "/home [name]" will teleport you there from anywhere else. Every player has their own homes and cannot teleport to each other's.
+"/sethome [name]" установит точку, на которой вы стоите как дом с таким именем, и "/home [name]" телепортирует вас туда откуда угодно. У каждого игрока есть свои дома и они не могут телепортироваться к чужим.
 
-"/setwarp [name]" and "/warp [name]" work like homes, except everyone can teleport warps.
+"/setwarp [name]" и "/warp [name]" работает как дома, кроме того что каждый игрок может телепортироваться туда.
 
-"/shrug" will display "¯\\\_(ツ)\_/¯" in chat, which is extremely useful.
+"/shrug" будет отображать "¯\\\_(ツ)\_/¯" в чате, что крайне полезно.
 
-"/nick [nickname]" will change your username to the nickname in chat. "/nick" by itself will reset it to your actual username.
+"/nick [nickname]" изменит ваше имя пользователя на ник в чате. "/nick" само по себе сбросит его на ваше фактическое имя пользователя.
 
-"/cofh tps" will show you the ticks per second in each dimension. 20 TPS is optimal, and the lower that value is, the laggier that dimension will be.
+"/cofh tps" покажет вам тики в секунду в каждом измерении. 20 TPS является оптимальным, и чем ниже это значение, тем медленнее будет это измерение.
 
-"/cofh friend gui" will open the GUI for Thermal Expansion friends, which are used in conjunction with Signalum Security Locks to allow players on the list to access locked machines. You can also use "/cofh friend add [player]" or "/cofh friend remove [player]" to do it directly from chat.
+"/cofh friend gui" откроет графический интерфейс для друзей Thermal Expansion, которые используются вместе с замками безопасности Signalum, чтобы позволить игрокам в списке получить доступ к заблокированным машинам. Вы также можете использовать "/cofh friend add [player]" или "/cofh friend remove [player]" чтобы сделать это прямо из чата.

@@ -1,3 +1,3 @@
-#Other Information
+#Дополнительная информация
 
-This chapter is dedicated to miscellaneous things that need explanations but don't fit in any of the other chapters.
+Эта глава посвящена разным вещам, которые нуждаются в объяснениях, но не вписываются ни в одну из других глав.
